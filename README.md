@@ -57,7 +57,7 @@ Execute a migração da base de dados com os dados inciais
 php artisan migrate --seed
 ```
 
-## Iniciando a aplicação
+## Iniciando a Aplicação
 
 ```
 php -S localhost:8080 -t public
